@@ -1,5 +1,5 @@
-## Hi there 👋
-
+## 안녕하세요👋 글로벌서비스 개발팀 신희성입니다.
+  
 <!--
 **siniseong-amuz/siniseong-amuz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
